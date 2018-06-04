@@ -4,7 +4,7 @@ This repository stores data regarding available eco-climatological data as proce
 
 ## Before you start
 
-Make sure to have running copy of the [R statistical framework](https://cloud.r-project.org/), and [rstudio](https://www.rstudio.com/products/rstudio/download/#download) on your computer.
+Make sure to have running copy of the [R statistical framework](https://cloud.r-project.org/), and [rstudio](https://www.rstudio.com/products/rstudio/download/#download) on your computer. Library dependencies are listed at the top of each R script.
 
 ## Download
 

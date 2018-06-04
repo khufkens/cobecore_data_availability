@@ -1,0 +1,17 @@
+inventory,nr_of_scans,province,station_name,start,end,lat,lon,alt
+6124,38,Leopoldstad,Boma,1910,1911,-5.86,13.10,20
+6375,130,Leopoldstad,Inongo,1910,1938,-1.85,18.24,325
+6448-6460,1590,Evenaarsprovincie,Eala,1908,1952,0.05,18.25,330
+6578,51,Evenaarsprovincie,Lisala,1932,1936,2.02,21.57,469
+6622,30,Evenaarsprovincie,Duma,1910,1910,2.88,18.7,
+6664-6666,189,Oostprovincie,Stanleyville,1908,1939,0.5,25.2,428
+6681,73,Evenaarsprovincie,Ybi_Km5,1950,1955,0.75,24.48,470
+6725,23,Oostprovincie,Bambesa,1936,1936,3.43,25.68,600
+6763,97,Oostprovincie,Bafuka,1930,1937,4.15,27.58,825
+6840,117,Oostprovincie,Mobwasa (Bangala),1914,1917,2.65,23.05,
+6842,9,Oostprovincie,Tuku mission (Haut Uele),1918,1919,3.76,23.88,
+6880,87,Oostprovincie,Watsa (Kibale-Ituri),1931,1939,3.05,29.53,
+7019-7022,610,Kivu,Costermansville,1935,1947,-2.3,28.51,1614
+7166-7168,124,Kivu,Tshibinda,1930,1939,-2.19,28.45,2070
+7291,55,Kivu,Kasongo,1910,1911,-4.31,26.35,550
+7742,122,Kasai,Sangaie (Lusambo),1927,1937,-6.8,22.77,
