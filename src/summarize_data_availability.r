@@ -60,6 +60,12 @@ p <- ggplot(site_years, aes(x = key, y = value)) +
   theme_minimal() + 
   theme(text = element_text(size=18))
 
+write.table(data, "data/climate_data_availability/data_availability.csv",
+            quote = FALSE,
+            row.names = FALSE,
+            col.names = TRUE,
+            sep = ",")
+
 plot(p)
 
 ggsave("output/cobecore_data_coverage.pdf")
